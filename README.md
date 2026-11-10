@@ -10,7 +10,6 @@
 
 | Item | Value |
 |---|---|
-| Pentester | _your name_ |
 | Program / Batch | Cybersecurity program, Networkwalks – B084 |
 | Date | 10 November 2026 |
 | Modules completed | W2-PM4 (Footprinting with theHarvester), W2-PM5 (Zenmap Scanning) |
@@ -153,7 +152,6 @@ With theHarvester, I learned that results depend heavily on the sources used: Ba
 
 | Élément | Valeur |
 |---|---|
-| Pentester | _ton nom_ |
 | Programme / Batch | Programme cybersécurité Networkwalks – B084 |
 | Date | 10 novembre 2026 |
 | Modules réalisés | W2-PM4 (Footprinting avec theHarvester), W2-PM5 (Scan avec Zenmap) |
@@ -162,7 +160,7 @@ With theHarvester, I learned that results depend heavily on the sources used: Ba
 
 ### Avertissement
 
-Ces activités ont été réalisées uniquement sur des systèmes que je possède ou pour lesquels j'avais une autorisation (le lab pédagogique imposé). Ce contenu est destiné à l'apprentissage et à la recherche. Ne l'utilise pas pour enfreindre la loi : un accès non autorisé est un délit, même si rien n'est endommagé.
+Ces activités ont été réalisées uniquement sur des systèmes que je possède ou pour lesquels j'avais une autorisation (le lab pédagogique imposé). Ce contenu est destiné à l'apprentissage et à la recherche. Un accès non autorisé est un délit, même si rien n'est endommagé.
 
 ### Introduction
 
